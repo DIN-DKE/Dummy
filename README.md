@@ -1,6 +1,3 @@
-# Dummy
-Dummy Playground
+# Sandbox
 
-Das ist ein Test
-
-## dummy 1
+Dummy Playground - Zum Austoben und Testen
