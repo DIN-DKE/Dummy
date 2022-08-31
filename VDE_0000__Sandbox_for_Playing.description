@@ -1,0 +1,8 @@
+[Package]
+Package = VDE_0000__Sandbox_for_Playing.dll
+Title = VDE_0000__Sandbox_for_Playing Validation Methods for .NET applications
+Version = 0.1
+Authors = "John Doe; aut; jdoe@north.pol
+   Erika Mustermann; cre; mustermann@north.pol"
+Description = This package contains validation Methods for usage in .NET applications
+Licence = GPL-3
